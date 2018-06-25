@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+#获得精华的文字
 from bs4 import BeautifulSoup
 import re
 import sys
